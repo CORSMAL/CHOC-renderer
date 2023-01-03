@@ -245,7 +245,7 @@ To create the NOCS textures in Blender, we used the [Texture Space](https://docs
 
 ## Enquiries, Question and Comments <a name="enquiries-question-and-comments"></a>
 
-If you have any further enquiries, question, or comments, or you would like to file a bug report or a feature request, use the Github issue tracker or send an email to corsmal-challenge@qmul.ac.uk or eey138@qmul.ac.uk. 
+If you have any further enquiries, question, or comments, or you would like to file a bug report or a feature request, use the Github issue tracker or send an email to corsmal-challenge@qmul.ac.uk. 
 
 ## Licence <a name="license"></a>
 
