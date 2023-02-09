@@ -23,8 +23,9 @@ Attributing and Referencing (Research) Software: Best Practices and Outlook from
 **Person** | **Design** | **Architecture** | **Coding** | **Testing** | **Debugging** | **Documentation** | **Maintenance** | **Support** | **Management** |
 -------|--------|--------------|--------|---------|-----------|---------------|-------------|---------|------------|
 [Xavier Weber](https://github.com/Saafke) |  |  |  |  |  |  |  |  |  |
-[Alessio Xompero](https://github.com/kerolex) |  |  |  |  |  |  |  |  |  |
+[Alessio Xompero](https://github.com/kerolex) | 0 | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 2 |
 [Tommaso Apicella](https://github.com/apicis) | 0 | 0 | 2 | 3 | 3 | 0 | 0 | 0 | 0 |
 
 ## List of authors
 * [Xavier Weber](https://github.com/Saafke): he is the main author of the repository.
+* [Alessio Xompero](https://github.com/kerolex): coordinated the documentation of the repository; provided comments, feedback and review; coordinated the release of the code; manage the repository through CORSMAL.
