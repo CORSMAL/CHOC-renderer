@@ -11,7 +11,7 @@ using Blender and Python. The software was used to generate the mixed-reality se
   <img src="/images/016995.png" width="32%"/>
 </p>
 
-[[dataset](https://zenodo.org/record/5085801#.Y3zGQ9LP2V4)]
+[[dataset](https://doi.org/10.5281/zenodo.5085800)]
 [[webpage](https://corsmal.eecs.qmul.ac.uk/pose.html)]
 
 ## Table of Contents
